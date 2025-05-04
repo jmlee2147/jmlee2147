@@ -1,6 +1,14 @@
 ### 🙋🏻‍♀️ About Me
 #### 
-![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+[![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Lee-Jimin-1e8ddd09a39c809c98b1f02f048829fc?pvs=4)
+
+---
+
+### 🎒 Activities
+- GDG on Campus: FRONTEND (2024.08 ~ now)
+- GDG on Campus: DEVREL (2024.08 ~ now)
+
+---
 
 ### 🛠️ Skills & Tools
 #### Programming Language
