@@ -1,5 +1,5 @@
 ### 🙄
-
+https://www.notion.so/Lee-Jimin-1e8ddd09a39c809c98b1f02f048829fc?pvs=4
 <!--
 **jmlee2147/jmlee2147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
