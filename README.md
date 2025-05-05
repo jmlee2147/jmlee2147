@@ -1,6 +1,5 @@
 ### 🙋🏻‍♀️ About Me
 #### 
-[![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Lee-Jimin-1e8ddd09a39c809c98b1f02f048829fc?pvs=4)
 
 ---
 
