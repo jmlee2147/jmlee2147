@@ -4,8 +4,8 @@
 ---
 
 ### 🎒 Activities
-- GDG on Campus: FRONTEND (2024.08 ~ 2025.08)
-- GDG on Campus: DEVREL (2024.08 ~ 2025.08)
+- GDG on Campus: FRONTEND (2024.08 - 2025.08)
+- GDG on Campus: DEVREL (2024.08 - 2025.08)
 
 ---
 
