@@ -3,6 +3,10 @@
 
 ---
 
+### 🏆 Prizes
+- Grand Prize, 2025 KHUTHON
+- Excellence Award, 2025 SW-centered University Joint SW Festival
+
 ### 🎒 Activities
 - GDG on Campus: FRONTEND (2024.08 - 2025.08)
 - GDG on Campus: DEVREL (2024.08 - 2025.08)
