@@ -5,7 +5,8 @@
 
 ### 🏆 Prizes
 - Grand Prize, 2025 KHUTHON
-- Excellence Award, 2025 SW-centered University Joint SW Festival
+- Excellence Prize, 2025 SW-centered University Joint SW Festival
+- Encouragement Prize, 2025 SW Portfolio Competition
 
 ---
 
