@@ -4,6 +4,7 @@
 ---
 
 ### 🏆 Prizes
+- Excellence Prize, 2025 Digital Innovation Challenge Hackathon hosted by BNK Financial Group
 - Grand Prize, 2025 KHUTHON
 - Excellence Prize, 2025 SW-centered University Joint SW Festival
 - Encouragement Prize, 2025 SW Portfolio Competition
