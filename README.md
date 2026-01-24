@@ -1,7 +1,7 @@
 ### 🙋🏻‍♀️ About Me
 #### 
 
----
+
 
 ### 🏆 Prizes
 - Excellence Prize, 2025 Digital Innovation Challenge Hackathon hosted by BNK Financial Group
@@ -9,13 +9,13 @@
 - Excellence Prize, 2025 SW-centered University Joint SW Festival
 - Encouragement Prize, 2025 SW Portfolio Competition
 
----
+
 
 ### 🎒 Activities
 - GDG on Campus: FRONTEND (2024.08 - 2025.08)
 - GDG on Campus: DEVREL (2024.08 - 2025.08)
 
----
+
 
 ### 🛠️ Skills & Tools
 #### Programming Language
