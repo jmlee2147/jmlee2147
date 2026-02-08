@@ -1,7 +1,7 @@
 ## 이지민 | Lee Jimin
 
 ### 🎒 Activities
-- KUSITHMS 33rd Frontend (2026.02 –)
+- KUSITMS 33rd Frontend (2026.02 –)
 - GDG on Campus: FRONTEND (2024.08 – 2025.08)
 - GDG on Campus: DEVREL (2024.08 – 2025.08)
 
