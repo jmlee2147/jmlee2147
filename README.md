@@ -1,7 +1,11 @@
 ## 이지민 | Lee Jimin
 
+### 💼 Experience
+- **Byteworx** · Intern (2026.06 –)
+  - 태양광 발전소 관리 · 청구, 세무 자동화 SaaS 플랫폼 개발
+
 ### 🎒 Activities
-- KUSITMS 33rd Frontend (2026.02 –)
+- KUSITMS 33rd Frontend (2026.02 – 2026.06)
 - GDG on Campus: FRONTEND (2024.08 – 2025.08)
 - GDG on Campus: DEVREL (2024.08 – 2025.08)
 
